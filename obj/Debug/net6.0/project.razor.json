@@ -1,0 +1,801 @@
+{
+  "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\BlazorSample.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "6.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "BlazorSample",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\ListGenericTypeItems1.razor",
+      "TargetPath": "Shared\\index\\ListGenericTypeItems1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample7.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\OnParamsSet.razor",
+      "TargetPath": "Pages\\lifecycle\\OnParamsSet.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ReferenceParent2.razor",
+      "TargetPath": "Pages\\index\\ReferenceParent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\file-uploads\\FileUpload2.razor",
+      "TargetPath": "Pages\\file-uploads\\FileUpload2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample2.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\BindEvent.razor",
+      "TargetPath": "Pages\\data-binding\\BindEvent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\ReferenceChild.razor",
+      "TargetPath": "Shared\\index\\ReferenceChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\data-binding\\ChildBind.razor",
+      "TargetPath": "Shared\\data-binding\\ChildBind.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\Parent.razor",
+      "TargetPath": "Pages\\event-handling\\Parent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample4.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample4.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\data-binding\\PasswordEntry.razor",
+      "TargetPath": "Shared\\data-binding\\PasswordEntry.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\Details.razor",
+      "TargetPath": "Shared\\index\\Details.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\control-head-content\\ControlHeadContent.razor",
+      "TargetPath": "Pages\\control-head-content\\ControlHeadContent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo1.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\CounterPartialClass.razor",
+      "TargetPath": "Pages\\index\\CounterPartialClass.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\routing\\App2.razor",
+      "TargetPath": "routing\\App2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\People.razor",
+      "TargetPath": "Pages\\index\\People.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\layouts\\DoctorWhoLayout2.razor",
+      "TargetPath": "Shared\\layouts\\DoctorWhoLayout2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ExpanderExample.razor",
+      "TargetPath": "Pages\\index\\ExpanderExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\RouteParameter2.razor",
+      "TargetPath": "Pages\\routing\\RouteParameter2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\Example.razor",
+      "TargetPath": "Pages\\routing\\Example.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\prerendering\\PrerenderedInterop1.razor",
+      "TargetPath": "Pages\\prerendering\\PrerenderedInterop1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\BlazorRocks.razor",
+      "TargetPath": "Pages\\index\\BlazorRocks.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\images\\ShowImage2.razor",
+      "TargetPath": "Pages\\images\\ShowImage2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\Markup.razor",
+      "TargetPath": "Pages\\index\\Markup.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo2.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\data-binding\\NestedGrandchild.razor",
+      "TargetPath": "Shared\\data-binding\\NestedGrandchild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\file-uploads\\FileUpload1.razor",
+      "TargetPath": "Pages\\file-uploads\\FileUpload1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\event-handling\\Child.razor",
+      "TargetPath": "Shared\\event-handling\\Child.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\CatchAll.razor",
+      "TargetPath": "Pages\\routing\\CatchAll.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\AfterRender.razor",
+      "TargetPath": "Pages\\lifecycle\\AfterRender.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\dynamiccomponent\\VirginGalactic.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\VirginGalactic.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\routing\\App1.razor",
+      "TargetPath": "routing\\App1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\Parent2.razor",
+      "TargetPath": "Pages\\data-binding\\Parent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample1.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\templated-components\\Pets4.razor",
+      "TargetPath": "Pages\\templated-components\\Pets4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample7.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo4.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample3.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\DateBinding.razor",
+      "TargetPath": "Pages\\data-binding\\DateBinding.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\layouts\\DoctorWhoLayout.razor",
+      "TargetPath": "Pages\\layouts\\DoctorWhoLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample11.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample11.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\advanced-scenarios\\PetDetails.razor",
+      "TargetPath": "Shared\\advanced-scenarios\\PetDetails.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\Parent1.razor",
+      "TargetPath": "Pages\\data-binding\\Parent1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ReceiveNotifications.razor",
+      "TargetPath": "Pages\\index\\ReceiveNotifications.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\ThemedCounter.razor",
+      "TargetPath": "Pages\\ThemedCounter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\layouts\\DoctorWhoLayout.razor",
+      "TargetPath": "Shared\\layouts\\DoctorWhoLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample5.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-dotnet-from-js\\CallDotNetExample6.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\RazorTemplate.razor",
+      "TargetPath": "Pages\\index\\RazorTemplate.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-dotnet-from-js\\CallDotNetExample5.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample6.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\Navigate.razor",
+      "TargetPath": "Pages\\routing\\Navigate.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\templated-components\\Pets1.razor",
+      "TargetPath": "Pages\\templated-components\\Pets1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\Splat.razor",
+      "TargetPath": "Pages\\index\\Splat.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-dotnet-from-js\\CallDotNetExample4.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\layouts\\MainLayout.razor",
+      "TargetPath": "Shared\\layouts\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\CounterWithTimerDisposal2.razor",
+      "TargetPath": "Pages\\lifecycle\\CounterWithTimerDisposal2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo0.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo0.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo7.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\rendering\\CounterState2.razor",
+      "TargetPath": "Pages\\rendering\\CounterState2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample1.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\advanced-scenarios\\BuiltContent.razor",
+      "TargetPath": "Pages\\advanced-scenarios\\BuiltContent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\AttributeOrderChild1.razor",
+      "TargetPath": "Shared\\index\\AttributeOrderChild1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\rendering\\CounterState1.razor",
+      "TargetPath": "Pages\\rendering\\CounterState1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ReferenceParent1.razor",
+      "TargetPath": "Pages\\index\\ReferenceParent1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\PasswordBinding.razor",
+      "TargetPath": "Pages\\data-binding\\PasswordBinding.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\UnparsableValues.razor",
+      "TargetPath": "Pages\\data-binding\\UnparsableValues.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\SetParamsAsync.razor",
+      "TargetPath": "Pages\\lifecycle\\SetParamsAsync.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample2.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\dependency-injection\\CustomerList.razor",
+      "TargetPath": "Pages\\dependency-injection\\CustomerList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample2.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\forms-and-validation\\CustomInputText.razor",
+      "TargetPath": "Shared\\forms-and-validation\\CustomInputText.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ConditionalAttribute.razor",
+      "TargetPath": "Pages\\index\\ConditionalAttribute.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\images\\ShowImage1.razor",
+      "TargetPath": "Pages\\images\\ShowImage1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo6.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\RouteParameter.razor",
+      "TargetPath": "Pages\\index\\RouteParameter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\Bind.razor",
+      "TargetPath": "Pages\\data-binding\\Bind.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\MarkupStringExample.razor",
+      "TargetPath": "Pages\\index\\MarkupStringExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample9.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample9.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample5.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\build-a-blazor-app\\Todo3.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-web-api\\TodoRequest.razor",
+      "TargetPath": "Pages\\call-web-api\\TodoRequest.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-web-api\\CallWebAPI.razor",
+      "TargetPath": "Pages\\call-web-api\\CallWebAPI.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\BlazorRoute.razor",
+      "TargetPath": "Pages\\routing\\BlazorRoute.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-dotnet-from-js\\CallDotNetExample3.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\host-and-deploy\\MeasureLatency.razor",
+      "TargetPath": "Shared\\host-and-deploy\\MeasureLatency.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\AttributeOrderParent1.razor",
+      "TargetPath": "Pages\\index\\AttributeOrderParent1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\file-downloads\\FileDownload2.razor",
+      "TargetPath": "Pages\\file-downloads\\FileDownload2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\templated-components\\Pets3.razor",
+      "TargetPath": "Pages\\templated-components\\Pets3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\call-dotnet-from-js\\ListItem.razor",
+      "TargetPath": "Shared\\call-dotnet-from-js\\ListItem.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\RenderFragmentChild.razor",
+      "TargetPath": "Shared\\index\\RenderFragmentChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\dynamiccomponent\\SpaceX.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\SpaceX.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\data-binding\\PasswordEntry2.razor",
+      "TargetPath": "Shared\\data-binding\\PasswordEntry2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample8.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample8.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\Heading.razor",
+      "TargetPath": "Shared\\index\\Heading.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ParameterParent2.razor",
+      "TargetPath": "Pages\\index\\ParameterParent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\RenderFragmentParent.razor",
+      "TargetPath": "Pages\\index\\RenderFragmentParent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\rendering\\ControlRender.razor",
+      "TargetPath": "Pages\\rendering\\ControlRender.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\Expander.razor",
+      "TargetPath": "Shared\\index\\Expander.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\BindTheory.razor",
+      "TargetPath": "Pages\\data-binding\\BindTheory.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\BackgroundWork.razor",
+      "TargetPath": "Pages\\lifecycle\\BackgroundWork.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample8.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample8.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\layouts\\App1.razor",
+      "TargetPath": "layouts\\App1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\layouts\\ProductionsLayout.razor",
+      "TargetPath": "Shared\\layouts\\ProductionsLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\BadExpander.razor",
+      "TargetPath": "Shared\\index\\BadExpander.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\AttributeOrderChild2.razor",
+      "TargetPath": "Shared\\index\\AttributeOrderChild2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\HelloWorld.razor",
+      "TargetPath": "Pages\\index\\HelloWorld.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\dependency-injection\\Preferences.razor",
+      "TargetPath": "Pages\\dependency-injection\\Preferences.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\data-binding\\NestedChild.razor",
+      "TargetPath": "Shared\\data-binding\\NestedChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample6.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample3.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample5.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample8.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample8.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-js-from-dotnet\\CallJsExample10.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample10.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\dynamiccomponent\\UnitedLaunchAlliance.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\UnitedLaunchAlliance.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\layouts\\Episodes.razor",
+      "TargetPath": "Pages\\layouts\\Episodes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\prerendering\\PrerenderedInterop2.razor",
+      "TargetPath": "Pages\\prerendering\\PrerenderedInterop2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\GenericTypeExample1.razor",
+      "TargetPath": "Pages\\index\\GenericTypeExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\logging\\Counter2.razor",
+      "TargetPath": "Pages\\logging\\Counter2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\dynamiccomponent\\RocketLabWithWindowSeat.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\RocketLabWithWindowSeat.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\dynamiccomponent\\RocketLab.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\RocketLab.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\build-a-blazor-app\\NavMenu.razor",
+      "TargetPath": "Shared\\build-a-blazor-app\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\logging\\Counter1.razor",
+      "TargetPath": "Pages\\logging\\Counter1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\AttributeOrderParent2.razor",
+      "TargetPath": "Pages\\index\\AttributeOrderParent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\templated-components\\TableTemplate.razor",
+      "TargetPath": "Shared\\templated-components\\TableTemplate.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\event-handling\\EventHandlerExample4.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-dotnet-from-js\\CallDotNetExample1.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\handle-errors\\ProductDetails.razor",
+      "TargetPath": "Pages\\handle-errors\\ProductDetails.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\call-dotnet-from-js\\CallDotNetExample2.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\templated-components\\Pets2.razor",
+      "TargetPath": "Pages\\templated-components\\Pets2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\environments\\ReadEnvironment.razor",
+      "TargetPath": "Pages\\environments\\ReadEnvironment.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Shared\\index\\ParameterChild.razor",
+      "TargetPath": "Shared\\index\\ParameterChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\OnInit.razor",
+      "TargetPath": "Pages\\lifecycle\\OnInit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\file-downloads\\FileDownload1.razor",
+      "TargetPath": "Pages\\file-downloads\\FileDownload1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\lifecycle\\CounterWithTimerDisposal1.razor",
+      "TargetPath": "Pages\\lifecycle\\CounterWithTimerDisposal1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\dynamiccomponent\\DynamicComponentExample2.razor",
+      "TargetPath": "Pages\\dynamiccomponent\\DynamicComponentExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\data-binding\\DecimalBinding.razor",
+      "TargetPath": "Pages\\data-binding\\DecimalBinding.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\HeadingExample.razor",
+      "TargetPath": "Pages\\index\\HeadingExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\RouteParameter1.razor",
+      "TargetPath": "Pages\\routing\\RouteParameter1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ParameterParent.razor",
+      "TargetPath": "Pages\\index\\ParameterParent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\routing\\User.razor",
+      "TargetPath": "Pages\\routing\\User.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\CallJsExample7.razor",
+      "TargetPath": "Pages\\CallJsExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\index\\ParameterParent3.razor",
+      "TargetPath": "Pages\\index\\ParameterParent3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\dynamiccomponent\\DynamicComponentExample1.razor",
+      "TargetPath": "Pages\\dynamiccomponent\\DynamicComponentExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample3.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\isidro\\source\\repos\\blazor-samples\\6.0\\BlazorSample_WebAssembly\\Pages\\forms-and-validation\\FormExample1.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample1.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
